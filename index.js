@@ -13,7 +13,7 @@ app.use(cors());
 
 /// DATABASE CONNECTION
 mongoose.connect(
-  "mongodb+srv://speedy:Speedy123-@personal.idr9h.mongodb.net/speedy?retryWrites=true&w=majority"
+  "mongodb+srv://Link...................."
 );
 
 app.post("/UpdateOrAdd", async(req, res) => {
